@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ForLoopTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ForLoopTest.cpp
+C:\Users\Grampa Swood\source\repos\ForLoopTest\ForLoopTest\ForLoopTest.cpp(9,20): warning C4018: '<=': signed/unsigned mismatch
+  VectorVector.cpp
+  Generating Code...
+  ForLoopTest.vcxproj -> C:\Users\Grampa Swood\source\repos\ForLoopTest\Debug\TestChamber.exe
