@@ -3,14 +3,18 @@
 
 int main()
 {
-
+	//Print out a vector of string vectors. Works thanks to wiki.tf/User:TidB :)
+	/*
 	VectorVector vector = VectorVector();
-
-	for (int i = 0; i <= vector.GetVectorVector().size(); i++) 
+	//TidB is god :)
+	for (int i = 0; i < vector.GetVectorVector().size(); i++)
 	{
-		std::cout << vector.GetVectorVector().at(i).at(i);
+		for (int j = 0; j < vector.GetVectorVector().at(i).size(); j++)
+		{
+			std::cout << vector.GetVectorVector().at(i).at(j);
+		}
 	}
-
+	*/
 	//Test if for loops can be broken using break;. They can
 	/*
 	for (int i = 0; i < 10; i++) 
