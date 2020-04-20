@@ -4,6 +4,19 @@
 
 int main()
 {
+
+	//Testing this for other project, turns out I'm dumb af.
+	/*int time = 500;
+
+	for (int i = time; i > 0; --i)
+	{
+		if (time % 2 == 0) 
+		{
+			std::cout << i << "\n";
+		}
+	}
+	*/
+
 	//Print vector of string vectors and get input after each vector
 	/* VectorVector vector = VectorVector();
 	std::string component;
