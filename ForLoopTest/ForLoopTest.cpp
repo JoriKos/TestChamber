@@ -1,8 +1,23 @@
-#include <iostream>
 #include "VectorVector.h"
+#include <iostream>
+#include <string>
 
 int main()
 {
+	//Print vector of string vectors and get input after each vector
+	/* VectorVector vector = VectorVector();
+	std::string component;
+	
+	for (int i = 0; i < vector.GetVectorVector().size(); i++)
+	{
+		for (int j = 0; j < vector.GetVectorVector().at(i).size(); j++)
+		{
+			std::cout << vector.GetVectorVector().at(i).at(j) << "\n";
+		}
+		std::cin >> component;
+	}
+	*/
+
 	//Print out a vector of string vectors. Works thanks to wiki.tf/User:TidB :)
 	/*
 	VectorVector vector = VectorVector();
