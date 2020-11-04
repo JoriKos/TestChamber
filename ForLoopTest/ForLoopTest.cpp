@@ -5,7 +5,7 @@
 int main()
 {
 
-	//Testing this for other project, turns out I'm dumb af.
+	//Testing this for other project.
 	/*int time = 500;
 
 	for (int i = time; i > 0; --i)
